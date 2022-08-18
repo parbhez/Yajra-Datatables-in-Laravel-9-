@@ -1,0 +1,3 @@
+//https://yajrabox.com/docs/laravel-datatables/master/installation
+//https://datatables.yajrabox.com/services/two-datatables
+//https://github.com/yajra/laravel-datatables/issues/1652
